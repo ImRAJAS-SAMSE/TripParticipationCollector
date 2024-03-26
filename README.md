@@ -1,0 +1,2 @@
+# TripParticipationCollector
+ A web-based application designed for efficiently collecting and managing participant information for a US trip. It features a responsive form, integrates with a MySQL database for data storage, and provides immediate submission feedback. Built with PHP, HTML, CSS, and a touch of JavaScript, it's a comprehensive solution for event organizers to streamline participant registrations.
